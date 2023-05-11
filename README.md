@@ -10,7 +10,7 @@
 
 ## Instalación 
 
-* Necesitaremos instalar la libreria de ncurses.h con el siguinte comando en la terminal.
+* Necesitaremos instalar la libreria de ncurses.h con el siguiente comando en la terminal.
 ```
 sudo apte install libncurses5-dev libncursesw5-dev
 ```
@@ -23,7 +23,7 @@ sudo apte install libncurses5-dev libncursesw5-dev
 ```
 cd Desktop/carrera_caballos
 ```
-* Para compilar el programa debemos usar el siguiente comando en la terminal, en el mismo directorio donde se encuentra el código fuente.
+* Luego para poder compilar el programa debemos usar el siguiente comando en la terminal, en el mismo directorio donde se encuentra el código fuente.
 ```
 gcc -o hipodromo hipodromo.c -lncurses
 ```
