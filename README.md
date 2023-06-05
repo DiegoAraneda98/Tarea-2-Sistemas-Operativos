@@ -22,7 +22,7 @@
 sudo apte install libncurses5-dev libncursesw5-dev
 ```
 
-* Para descargar el programa haga click en el siguiente [Link]()
+* Para descargar el programa haga click en el siguiente [Link](https://github.com/DiegoAraneda98/Tarea-2-Sistemas-Operativos/archive/refs/heads/diego.zip)
 
 ## Ejecución del programa
 
